@@ -11,7 +11,6 @@ export default function useFetch(endpoint, query) {
 
     //TODO RE-ENABLE THE API!!!!!!!!!!!!!!!!!
 
-
     const options = {
         method: 'GET',
         url: `https://jsearch.p.rapidapi.com/${endpoint}`,
