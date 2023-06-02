@@ -19,6 +19,7 @@ const styles = StyleSheet.create({
   logoImage: {
     width: "80%",
     height: "80%",
+
   },
   jobTitleBox: {
     marginTop: SIZES.small,
@@ -49,6 +50,7 @@ const styles = StyleSheet.create({
     width: 14,
     height: 14,
     tintColor: COLORS.gray,
+    marginLeft: 15,
   },
   locationName: {
     fontSize: SIZES.medium - 2,
