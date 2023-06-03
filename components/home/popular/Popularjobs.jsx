@@ -17,11 +17,10 @@ const Popularjobs = () => {
     query: 'React developer',
     num_pages: 1
   })
-  
-  // console.log(data);
 
   const handleCardPress = (item) => {
-    console.log(item);
+    router.push(`/job-details/${item.job_id}`);
+    setSelectedJob(item.job_id);
   }
 
   return (

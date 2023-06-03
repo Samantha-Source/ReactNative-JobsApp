@@ -1,3 +1,7 @@
+
+📝  Manifest: https://exp.host/@samanthabrowncoding/JobsApp
+⚙️   Project page: https://expo.dev/@samanthabrowncoding/JobsApp?serviceType=classic&distribution=expo-go
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
